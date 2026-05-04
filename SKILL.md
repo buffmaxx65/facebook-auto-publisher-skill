@@ -38,7 +38,7 @@ Prioritaskan urutan:
 3. Browser automation dengan Agent Browser
 4. Manual output siap copy-paste
 
-Jika API token atau login belum tersedia, jangan menebak credential. Minta user memberi akses dengan aman.
+Jika akses API atau login belum tersedia, jangan menebak data autentikasi. Minta user memberi akses dengan aman.
 
 ## Input yang dibutuhkan
 
@@ -122,5 +122,5 @@ Contoh izin eksplisit:
 - Jangan posting tanpa izin eksplisit.
 - Jangan spam grup/komentar/DM.
 - Jangan mencoba bypass 2FA/CAPTCHA.
-- Jangan menyimpan atau menampilkan token/cookies.
+- Jangan menyimpan atau menampilkan data autentikasi.
 - Jangan menyembunyikan affiliate disclosure.

@@ -17,12 +17,6 @@ git clone https://github.com/buffmaxx65/facebook-auto-publisher-skill \
   ~/.openclaw/skills/facebook-auto-publisher
 ```
 
-Atau:
-
-```bash
-curl -fsSL https://raw.githubusercontent.com/buffmaxx65/facebook-auto-publisher-skill/main/install.sh | bash
-```
-
 ## Cara pakai
 
 ```bash
